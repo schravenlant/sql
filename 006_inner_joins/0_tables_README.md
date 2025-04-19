@@ -1,4 +1,3 @@
-/**
 Customers
 customer_id | first_name | last_name | age | country
 ----------------------------------------------------
@@ -28,4 +27,3 @@ shipping_id | status    | customer
 4           | Pending	| 5
 5           | Delivered | 1
 ----------------------------------
-**/
