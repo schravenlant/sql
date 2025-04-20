@@ -1,3 +1,10 @@
+# SQL examples
+
+If you fully understand all the examples you are prepared to take the exam.
+
+## Tables
+All examples select information from the tables below
+
 Customers
 customer_id | first_name | last_name | age | country
 ------------|------------|-----------|-----|-------

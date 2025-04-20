@@ -1,3 +1,4 @@
+```sql
 select
     first_name || ' ' || last_name as name,
     customer_id,
@@ -7,14 +8,12 @@ from
     inner join Shippings on customer = customer_id
 order by
     Customers.customer_id ASC;
-
-/**
-result:
+```
+↓ Results in ↓
 name	        | customer_id |	shipping_id
------------------------------------
+----------------|-------------|----
 John Doe        | 1           |	5
 Robert Luna     | 2           |	1
 David Robinson  | 3           |	3
 John Reinhardt  | 4           |	2
 Betty Doe       | 5           |	4
-**/
