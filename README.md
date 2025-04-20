@@ -2,6 +2,8 @@
 
 If you fully understand all the examples you are prepared to take the exam.
 
+You can paste the SQL examples into https://www.programiz.com/sql/online-compiler to try for yourself how they work.
+
 ## Tables
 All examples select information from the tables below
 

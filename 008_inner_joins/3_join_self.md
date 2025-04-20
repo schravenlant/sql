@@ -20,3 +20,5 @@ customer id | customer       | next customer id | next customer
 
 # Explanation
 You don't have to inner join with another table. You can inner join with the same table. Also, you can decide how to join tables e.g. `on c1.customer_id + 1 = c2.customer_id`. You can use any comparitive operator here and even do math!
+
+Finally, note that we have assigned the aliases `c1` and `c2` to the tables. Since we join `Customers` on `Customers` we need a way to distinguish one `Customers` table from the other `Customers` table. 
