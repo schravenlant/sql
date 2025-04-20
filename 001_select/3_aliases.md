@@ -3,7 +3,7 @@
 select age as leeftijd from Customers;
 ```
 ↓ Results in ↓
-leeftijd |
+| leeftijd |
 ----------
 31
 22
