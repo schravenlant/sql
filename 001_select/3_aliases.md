@@ -4,9 +4,9 @@ select age as leeftijd from Customers;
 ```
 ↓ Results in ↓
 | leeftijd |
-----------
-31
-22
-22
-25
-28
+------------
+| 31       |
+| 22       |
+| 22       |
+| 25       |
+| 28       |
