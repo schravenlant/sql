@@ -19,3 +19,8 @@ Robert Luna    | 2           | 5        | 1
 David Robinson | 3           | 3        | 3
 John Reinhardt | 4           | 1        | 2
 John Reinhardt | 4           | 2        | 2   
+
+# Explanation
+Note that John Reinhardt occurs twice.
+This happened because his customer_id occurs twice in the Orders table.
+When you perform an inner join each row is matched with all matching rows!
