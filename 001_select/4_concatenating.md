@@ -1,5 +1,5 @@
 ```sql
--- selects the age as leeftijd of all customers 
+-- selects a description of all customers 
 select first_name || ' ' || last_name 
   || ', age ' || age
   || ' from ' || country as description 

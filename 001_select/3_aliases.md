@@ -13,7 +13,7 @@ leeftijd |
 28       |
 
 ```sql
--- selects the age as leeftijd of all customers as c 
+-- selects the age of all customers refering to customers as c
 select c.age from Customers c;
 -- this way we can name our tables
 -- this will become important later on when we want to distinguish between tables!

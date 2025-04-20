@@ -8,7 +8,7 @@ John	          | 25            | 999.99
 Betty	          | 28            | 24.27
 
 # Explanation
-text literals should always be quoted
-e.g. 'John'
-literals refers to actual values that you put inside your queries
-e.g. first_name is not quoted because it is not a literal
+Text literals should always be quoted
+e.g. `'John'`.
+Literal refers to actual values that you put inside your queries
+e.g. first_name is not quoted because it is not a literal.

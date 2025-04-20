@@ -4,6 +4,7 @@ select customer_id, sum(amount) as total from Orders group by customer_id;
 ```
 ↓ Results in ↓
 customer_id | total
+------------|-------
 1           | 400
 2           | 250
 3           | 12000

@@ -8,6 +8,6 @@ John	          | 25            | 999.99
 Betty	          | 28            | 24.27
 
 # Explanation
-integers are whole numbers
-if you divide two integers the result is rounded down
-to the nearest integer e.g. 5 / 2 = 2
+Integers are whole numbers.
+If you divide two integers the result is rounded down
+to the nearest integer e.g. `5 / 2 = 2`.
